@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
-- 🌱 I’m currently learning **C,Python,Javascript,Java**
-
-- 📫 How to reach me **emirhankar5434@gmail.com**
+🌱 I’m currently learning **C,Python,Javascript,Java**
+📫 How to reach me **emirhankar5434@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
