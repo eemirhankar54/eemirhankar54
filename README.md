@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
 🌱 I’m currently learning **C,Python,Javascript,Java**
 📫 How to reach me **emirhankar5434@gmail.com**
+<img align="right" alt="Coding" width="430" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"> 
+Comment
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
