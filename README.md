@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/eemirhankar54/eemirhankar54/main/ChatGPT%20Image%2019%20Eki%202025%2014_28_16.png" width="100%"/>
+
 <h1 align="center">Hi 👋, I'm emirhan kar</h1>
 <h3 align="center">I am a third-year student at Konya Technical University, Department of Computer Engineering, and I am just improving myself.</h3>
 
