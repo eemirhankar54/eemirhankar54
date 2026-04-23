@@ -29,7 +29,7 @@
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white) |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.logo/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)|
 
 ---
 
