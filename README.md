@@ -18,7 +18,7 @@
 - 🚀 Focused on **Backend Development** and **Mobile Applications**.
 - 🛠️ Currently working on **MODIF-AI**: A 3D car modification visualizer using computer vision.
 - 🎯 Deep diving into **FastAPI**, **PostgreSQL**, and **Flutter**.
-- 🎮 In my free time, I'm perfecting my counter-strafing in **CS2**.
+
 
 ---
 
