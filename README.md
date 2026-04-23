@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eemirhankar54/eemirhankar54/main/ChatGPT%20Image%2019%20Eki%202025%2014_38_44.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/eemirhankar54/eemirhankar54/main/Gemini_Generated_Image_5ol2rb5ol2rb5ol2.png" width="100%"/>
   
   <h1>Hi 👋, I'm Emirhan Kar</h1>
   <p><b>Computer Engineering Student at Konya Technical University | Backend Developer | CS2 Enthusiast</b></p>
